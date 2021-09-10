@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Service_PowerMontero/1.0.0": {
+        "runtime": {
+          "Service_PowerMontero.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Service_PowerMontero/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+C:\Users\Edward Montero\source\repos\Service_PowerMontero\bin\Debug\netcoreapp3.1\Service_PowerMontero.exe
+C:\Users\Edward Montero\source\repos\Service_PowerMontero\bin\Debug\netcoreapp3.1\Service_PowerMontero.deps.json
+C:\Users\Edward Montero\source\repos\Service_PowerMontero\bin\Debug\netcoreapp3.1\Service_PowerMontero.runtimeconfig.json
+C:\Users\Edward Montero\source\repos\Service_PowerMontero\bin\Debug\netcoreapp3.1\Service_PowerMontero.runtimeconfig.dev.json
+C:\Users\Edward Montero\source\repos\Service_PowerMontero\bin\Debug\netcoreapp3.1\Service_PowerMontero.dll
+C:\Users\Edward Montero\source\repos\Service_PowerMontero\bin\Debug\netcoreapp3.1\Service_PowerMontero.pdb
+C:\Users\Edward Montero\source\repos\Service_PowerMontero\obj\Debug\netcoreapp3.1\Service_PowerMontero.csproj.AssemblyReference.cache
+C:\Users\Edward Montero\source\repos\Service_PowerMontero\obj\Debug\netcoreapp3.1\Service_PowerMontero.AssemblyInfoInputs.cache
+C:\Users\Edward Montero\source\repos\Service_PowerMontero\obj\Debug\netcoreapp3.1\Service_PowerMontero.AssemblyInfo.cs
+C:\Users\Edward Montero\source\repos\Service_PowerMontero\obj\Debug\netcoreapp3.1\Service_PowerMontero.csproj.CoreCompileInputs.cache
+C:\Users\Edward Montero\source\repos\Service_PowerMontero\obj\Debug\netcoreapp3.1\Service_PowerMontero.dll
+C:\Users\Edward Montero\source\repos\Service_PowerMontero\obj\Debug\netcoreapp3.1\Service_PowerMontero.pdb
+C:\Users\Edward Montero\source\repos\Service_PowerMontero\obj\Debug\netcoreapp3.1\Service_PowerMontero.genruntimeconfig.cache
+C:\Users\Edward Montero\Desktop\C2-2021 Actual\Programacion II\Tarea #2 - Luis Angel Montero\Service_PowerMontero\bin\Debug\netcoreapp3.1\Service_PowerMontero.exe
+C:\Users\Edward Montero\Desktop\C2-2021 Actual\Programacion II\Tarea #2 - Luis Angel Montero\Service_PowerMontero\bin\Debug\netcoreapp3.1\Service_PowerMontero.deps.json
+C:\Users\Edward Montero\Desktop\C2-2021 Actual\Programacion II\Tarea #2 - Luis Angel Montero\Service_PowerMontero\bin\Debug\netcoreapp3.1\Service_PowerMontero.runtimeconfig.json
+C:\Users\Edward Montero\Desktop\C2-2021 Actual\Programacion II\Tarea #2 - Luis Angel Montero\Service_PowerMontero\bin\Debug\netcoreapp3.1\Service_PowerMontero.runtimeconfig.dev.json
+C:\Users\Edward Montero\Desktop\C2-2021 Actual\Programacion II\Tarea #2 - Luis Angel Montero\Service_PowerMontero\bin\Debug\netcoreapp3.1\Service_PowerMontero.dll
+C:\Users\Edward Montero\Desktop\C2-2021 Actual\Programacion II\Tarea #2 - Luis Angel Montero\Service_PowerMontero\bin\Debug\netcoreapp3.1\Service_PowerMontero.pdb
+C:\Users\Edward Montero\Desktop\C2-2021 Actual\Programacion II\Tarea #2 - Luis Angel Montero\Service_PowerMontero\obj\Debug\netcoreapp3.1\Service_PowerMontero.csproj.AssemblyReference.cache
+C:\Users\Edward Montero\Desktop\C2-2021 Actual\Programacion II\Tarea #2 - Luis Angel Montero\Service_PowerMontero\obj\Debug\netcoreapp3.1\Service_PowerMontero.AssemblyInfoInputs.cache
+C:\Users\Edward Montero\Desktop\C2-2021 Actual\Programacion II\Tarea #2 - Luis Angel Montero\Service_PowerMontero\obj\Debug\netcoreapp3.1\Service_PowerMontero.AssemblyInfo.cs
+C:\Users\Edward Montero\Desktop\C2-2021 Actual\Programacion II\Tarea #2 - Luis Angel Montero\Service_PowerMontero\obj\Debug\netcoreapp3.1\Service_PowerMontero.csproj.CoreCompileInputs.cache
+C:\Users\Edward Montero\Desktop\C2-2021 Actual\Programacion II\Tarea #2 - Luis Angel Montero\Service_PowerMontero\obj\Debug\netcoreapp3.1\Service_PowerMontero.dll
+C:\Users\Edward Montero\Desktop\C2-2021 Actual\Programacion II\Tarea #2 - Luis Angel Montero\Service_PowerMontero\obj\Debug\netcoreapp3.1\Service_PowerMontero.pdb
+C:\Users\Edward Montero\Desktop\C2-2021 Actual\Programacion II\Tarea #2 - Luis Angel Montero\Service_PowerMontero\obj\Debug\netcoreapp3.1\Service_PowerMontero.genruntimeconfig.cache
